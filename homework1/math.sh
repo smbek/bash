@@ -1,4 +1,5 @@
 #!/bin/bash
+
 echo "Input two numbers: "
 read num1 
 read num2
